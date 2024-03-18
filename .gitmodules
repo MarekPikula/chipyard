@@ -154,3 +154,6 @@
 [submodule "vlsi/hammer-mentor-plugins"]
 	path = vlsi/hammer-mentor-plugins
 	url = https://github.com/ucb-bar/hammer-mentor-plugins.git
+[submodule "generators/ara"]
+	path = generators/ara
+	url = https://github.com/MarekPikula/ara-wrapper.git

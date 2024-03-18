@@ -25,6 +25,7 @@ import firesim.bridges._
 import firesim.configs.MemModelKey
 import tracegen.{TraceGenSystemModuleImp}
 import cva6.CVA6Tile
+import ara.ARATile
 
 import barstools.iocell.chisel._
 import chipyard.iobinders._
